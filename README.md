@@ -72,6 +72,8 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
 
 * Tool: gfastats
 * Converted assembly graphs (GFA) into FASTA format
+[Download fasta](https://drive.google.com/file/d/1Q6F93ttvlw6-a5F-uOORAYTFY5TiQcGP/view?usp=sharing)
+
 
 ---
 
@@ -84,7 +86,9 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
   * Total length
   * Number of contigs
   * N50 values
-
+[Download stats](https://drive.google.com/file/d/1-TJoRKHWpf8WJ729QKl0J2a9GHhehFSv/view?usp=sharing)
+#### 🔹 columnjoin
+[Download](https://drive.google.com/file/d/1h0pIjT5cpZ15qtYRsPNSQzutku7WdfxU/view?usp=sharing)
 #### 🔹 BUSCO
 
 * Assessed genome completeness using conserved genes
@@ -92,18 +96,31 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
 #### 🔹 Merqury
 
 * Evaluated assembly quality using k-mer spectra
+[Download](https://drive.google.com/file/d/1PVeL-Z11XOxxBfTMXq4o2bGIIaDWHRN1/view?usp=sharing)
 
 ---
 
 ### 7. Scaffolding
+*scaffolding using Hifiasm was successful, trio based scaffolding was also successful
 
 * Attempted Bionano hybrid scaffolding
 
 * Due to computational limitations, this step could not be completed
 
-* Hi-C scaffolding was initiated but not finalized due to time constraints
+* Hi-C scaffolding using hifiasm was successfully done.
+* following are all HIfiasm (assembly) files, alongwith contiguing and scaffolding results:
+[Download](https://drive.google.com/file/d/1j1eJ_uuX7h2PYlddm10Z045eUBWf92Wt/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1X9gLuaNtgl0jux12UAHVQVA5BrDfOqiz/view?usp=sharing)
+[Download](https://drive.google.com/file/d/18vhlfS4cCYmWsvircctTmQcRFyoIf6D5/view?usp=sharing)
+[Download](https://drive.google.com/file/d/130FOXjlBgVmVoazxWWoGqRCWfO61rduZ/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1sciM8maFeWqvx7SHI1Sok6qwpnLe_mGl/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1Wza4ZasIqAdZG8dtSN-cCfyHavTG2cgh/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1ychkGyvqSJGjwGukQ55u-BamwK3GezeQ/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1ieZcQ6jYsH1tsEVq0dokU3dozgZeBYY8/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1YYACTwKfFkTbLEWP7yCfziXmNmEzf51q/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1mw8Yem8NAHv8WZgxLK8S0qYcZe-Jo8bv/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1B3cEo8tFUXjo9_Rj-9xB53kLpN0i-r-7/view?usp=sharing)
 
----
 
 ## 📊 Results
 
@@ -133,7 +150,7 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
 Due to extended runtime and queue limitations on Galaxy:
 
 * Bionano scaffolding could not be completed
-* Final Hi-C scaffolding steps were not finalized
+
 
 However, the primary genome assembly and evaluation pipeline was successfully completed.
 
