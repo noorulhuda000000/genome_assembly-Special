@@ -48,6 +48,7 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
   * Genome size
   * Heterozygosity
   * Error rate
+Galaxy58-[GenomeScope on dataset 57 Linear plot].png
 
 
 ---
