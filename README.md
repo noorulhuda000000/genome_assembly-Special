@@ -48,7 +48,7 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
   * Genome size
   * Heterozygosity
   * Error rate
-
+![GenomeScope](results/genomescope_plot.png)
 
 
 ---
