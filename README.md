@@ -87,7 +87,7 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
 #### 🔹 BUSCO
 
 * Assessed genome completeness using conserved genes
-
+Galaxy113-[Busco on dataset 104_ Summary image - Specific lineage].png
 #### 🔹 Merqury
 
 * Evaluated assembly quality using k-mer spectra
