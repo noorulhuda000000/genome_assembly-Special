@@ -65,7 +65,7 @@ The workflow includes preprocessing, genome profiling, assembly, and quality eva
   * Haplotype 1 contigs (hap1)
   * Haplotype 2 contigs (hap2)
   [Download hap1](https://drive.google.com/file/d/1LafH-RjuO-9M-ZHgLO_8rZbBRuDkGwBD/view?usp=sharing)
-
+  [Download hap2](https://drive.google.com/file/d/1ywisr3FX_XUDLcWyTkxF9IYA72ymDWPg/view?usp=sharing)
 ---
 
 ### 5. GFA to FASTA Conversion
